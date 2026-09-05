@@ -1,0 +1,86 @@
+[
+    {
+        "name": "boost",
+        "type": "toggle",
+        "img": "images/items/boost.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boost"
+    },
+    {
+        "name": "goldengear",
+        "type": "consumable",
+        "img": "images/items/goldengear.png",
+        "min_quantity": 0,
+        "max_quantity": 45,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "goldengear"
+    },
+    {
+        "name": "itemarrow",
+        "type": "toggle",
+        "img": "images/items/itemarrow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "itemarrow"
+    },
+    {
+        "name": "talismanslot",
+        "type": "consumable",
+        "img": "images/items/talismanslot.png",
+        "min_quantity": 0,
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "talismanslot"
+    },
+    {
+        "name": "spinform",
+        "type": "toggle",
+        "img": "images/items/spinform.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spinform"
+    },
+    {
+        "name": "snakeform",
+        "type": "toggle",
+        "img": "images/items/snakeform.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "snakeform"
+    },
+    {
+        "name": "checkpoint",
+        "type": "toggle",
+        "img": "images/items/checkpoint.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "checkpoint"
+    },
+    {
+        "name": "batform",
+        "type": "toggle",
+        "img": "images/items/batform.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "batform"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]
