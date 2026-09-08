@@ -6,7 +6,7 @@
                 "name": "Abandoned Barrack",
                 "sections": [
                     {
-                        "name": "Abandoned Barrack - Abandoned Barrack Chest",
+                        "name": "Abandoned Barrack Chest",
                         
                         "access_rules": ["boost, spinform"]
                     }
@@ -31,7 +31,7 @@
                 "name": "Altar of Hands",
                 "sections": [
                     {
-                        "name": "Altar of Hands - Altar of Hands Chest"
+                        "name": "Altar of Hands Chest"
                         
                     }
                 ],
@@ -55,12 +55,12 @@
                 "name": "Arctic Eden",
                 "sections": [
                     {
-                        "name": "Arctic Eden - Arctic Eden Chest",
+                        "name": "Arctic Eden Chest",
                         
                         "access_rules": ["boost", "snakeform"]
                     },
                     {
-                        "name": "Arctic Eden - Arctic Eden Rings",
+                        "name": "Arctic Eden Rings",
                         
                         "access_rules": ["boost", "snakeform"]
                     }
@@ -85,16 +85,16 @@
                 "name": "Aurum Mine",
                 "sections": [
                     {
-                        "name": "Aurum Mine - Aurum Mine Chest"
+                        "name": "Aurum Mine Chest"
                         
                     },
                     {
-                        "name": "Aurum Mine - Aurum Mine Mr. Mint",
+                        "name": "Aurum Mine Mr. Mint",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Aurum Mine - Aurum Mine Rat"
+                        "name": "Aurum Mine Rat"
                         
                     }
                 ],
@@ -118,17 +118,17 @@
                 "name": "Avian Gaol",
                 "sections": [
                     {
-                        "name": "Avian Gaol - Avian Gaol Free Lokians",
+                        "name": "Avian Gaol Free Lokians",
                         
                         "access_rules": ["boost, batform"]
                     },
                     {
-                        "name": "Avian Gaol - Avian Gaol Mr. Mint",
+                        "name": "Avian Gaol Mr. Mint",
                         
                         "access_rules": ["boost, batform"]
                     },
                     {
-                        "name": "Avian Gaol - Avian Gaol Gearserker",
+                        "name": "Avian Gaol Gearserker",
                         
                         "access_rules": ["boost"]
                     }
@@ -153,7 +153,7 @@
                 "name": "Baby Storage",
                 "sections": [
                     {
-                        "name": "Baby Storage - Baby Storage Kappa Baby",
+                        "name": "Baby Storage Kappa Baby",
                         
                         "access_rules": ["boost"]
                     }
@@ -178,17 +178,17 @@
                 "name": "Bhaile Ruins",
                 "sections": [
                     {
-                        "name": "Bhaile Ruins - Bhaile Ruins Peak Chest",
+                        "name": "Bhaile Ruins Peak Chest",
                         
                         "access_rules": ["boost", "batform", "spinform"]
                     },
                     {
-                        "name": "Bhaile Ruins - Bhaile Ruins Building Chest",
+                        "name": "Bhaile Ruins Building Chest",
                         
                         "access_rules": ["boost"]
                     },
                     {
-                        "name": "Bhaile Ruins - Bhaile Ruins Gearserker",
+                        "name": "Bhaile Ruins Gearserker",
                         
                         "access_rules": ["boost"]
                     }
@@ -213,12 +213,12 @@
                 "name": "Blazing Bonanza",
                 "sections": [
                     {
-                        "name": "Blazing Bonanza - Blazing Bonanza Rings",
+                        "name": "Blazing Bonanza Rings",
                         
                         "access_rules": ["boost", "batform", "spinform"]
                     },
                     {
-                        "name": "Blazing Bonanza - Blazing Bonanza Kappa Baby"
+                        "name": "Blazing Bonanza Kappa Baby"
                         
                     }
                 ],
@@ -242,17 +242,17 @@
                 "name": "Blessed Optica",
                 "sections": [
                     {
-                        "name": "Blessed Optica - Blessed Optica Chest",
+                        "name": "Blessed Optica Chest",
                         
                         "access_rules": ["batform, boost"]
                     },
                     {
-                        "name": "Blessed Optica - Blessed Optica Mr. Mint",
+                        "name": "Blessed Optica Mr. Mint",
                         
                         "access_rules": ["batform, boost"]
                     },
                     {
-                        "name": "Blessed Optica - Blessed Optica Key Chest",
+                        "name": "Blessed Optica Key Chest",
                         
                         "access_rules": ["batform, boost"]
                     }
@@ -277,7 +277,7 @@
                 "name": "Chronia Cyclone",
                 "sections": [
                     {
-                        "name": "Chronia Cyclone - Chronia Cyclone Chest",
+                        "name": "Chronia Cyclone Chest",
                         
                         "access_rules": ["boost, batform, spinform"]
                     }
@@ -302,7 +302,7 @@
                 "name": "DKs Curse",
                 "sections": [
                     {
-                        "name": "DKs Curse - DKs Curse Chest",
+                        "name": "DKs Curse Chest",
                         
                         "access_rules": ["batform"]
                     }
@@ -327,7 +327,7 @@
                 "name": "Dissolving Tower",
                 "sections": [
                     {
-                        "name": "Dissolving Tower - Dissolving Tower Chest",
+                        "name": "Dissolving Tower Chest",
                         
                         "access_rules": ["boost"]
                     }
@@ -352,12 +352,12 @@
                 "name": "Drained Urbs",
                 "sections": [
                     {
-                        "name": "Drained Urbs - Drained Urbs Gear Bits",
+                        "name": "Drained Urbs Gear Bits",
                         
                         "access_rules": ["boost, batform"]
                     },
                     {
-                        "name": "Drained Urbs - Drained Urbs Rat",
+                        "name": "Drained Urbs Rat",
                         
                         "access_rules": ["boost"]
                     }
@@ -382,22 +382,22 @@
                 "name": "Dunkelwald",
                 "sections": [
                     {
-                        "name": "Dunkelwald - Dunkelwald Creature Chest",
+                        "name": "Dunkelwald Creature Chest",
                         
                         "access_rules": ["batform", "spinform"]
                     },
                     {
-                        "name": "Dunkelwald - Dunkelwald Orange Chest",
+                        "name": "Dunkelwald Orange Chest",
                         
                         "access_rules": ["batform", "spinform"]
                     },
                     {
-                        "name": "Dunkelwald - Dunkelwald Mr. Mint",
+                        "name": "Dunkelwald Mr. Mint",
                         
                         "access_rules": ["batform", "spinform"]
                     },
                     {
-                        "name": "Dunkelwald - Dunkelwald Rings",
+                        "name": "Dunkelwald Rings",
                         
                         "access_rules": ["boost"]
                     }
@@ -422,12 +422,12 @@
                 "name": "Flooded Manachainn",
                 "sections": [
                     {
-                        "name": "Flooded Manachainn - Flooded Manachainn Bells",
+                        "name": "Flooded Manachainn Bells",
                         
                         "access_rules": ["boost, batform, spinform"]
                     },
                     {
-                        "name": "Flooded Manachainn - Flooded Manachainn Kappa Baby"
+                        "name": "Flooded Manachainn Kappa Baby"
                         
                     }
                 ],
@@ -451,17 +451,17 @@
                 "name": "Frost Burg",
                 "sections": [
                     {
-                        "name": "Frost Burg - Frost Burg Chest",
+                        "name": "Frost Burg Chest",
                         
                         "access_rules": ["boost, batform, spinform"]
                     },
                     {
-                        "name": "Frost Burg - Frost Burg Rings",
+                        "name": "Frost Burg Rings",
                         
                         "access_rules": ["boost, batform, spinform, snake"]
                     },
                     {
-                        "name": "Frost Burg - Frost Burg Kappa Baby",
+                        "name": "Frost Burg Kappa Baby",
                         
                         "access_rules": ["boost, batform, spinform"]
                     }
@@ -486,17 +486,17 @@
                 "name": "Frostown Ruins",
                 "sections": [
                     {
-                        "name": "Frostown Ruins - Frostown Ruins Chest",
+                        "name": "Frostown Ruins Chest",
                         
                         "access_rules": ["boost, batform, spinform"]
                     },
                     {
-                        "name": "Frostown Ruins - Frostown Ruins Mr. Mint",
+                        "name": "Frostown Ruins Mr. Mint",
                         
                         "access_rules": ["boost, batform, spinform"]
                     },
                     {
-                        "name": "Frostown Ruins - Frostown Ruins Gearserker",
+                        "name": "Frostown Ruins Gearserker",
                         
                         "access_rules": ["boost"]
                     }
@@ -521,17 +521,17 @@
                 "name": "Frosty Bait",
                 "sections": [
                     {
-                        "name": "Frosty Bait - Frosty Bait Chest",
+                        "name": "Frosty Bait Chest",
                         
                         "access_rules": ["batform", "spinform"]
                     },
                     {
-                        "name": "Frosty Bait - Frosty Bait Rings",
+                        "name": "Frosty Bait Rings",
                         
                         "access_rules": ["boost", "batform", "spinform"]
                     },
                     {
-                        "name": "Frosty Bait - Frosty Bait Gear Bits",
+                        "name": "Frosty Bait Gear Bits",
                         
                         "access_rules": ["boost, batform"]
                     }
@@ -556,7 +556,7 @@
                 "name": "Frozen Gears",
                 "sections": [
                     {
-                        "name": "Frozen Gears - Frozen Gears Gearserker",
+                        "name": "Frozen Gears Gearserker",
                         
                         "access_rules": ["boost"]
                     }
@@ -581,17 +581,17 @@
                 "name": "Fungal Depths",
                 "sections": [
                     {
-                        "name": "Fungal Depths - Fungal Depths Surface Chest",
+                        "name": "Fungal Depths Surface Chest",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Fungal Depths - Fungal Depths Altar Chest",
+                        "name": "Fungal Depths Altar Chest",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Fungal Depths - Fungal Depths Ghost",
+                        "name": "Fungal Depths Ghost",
                         
                         "access_rules": ["boost, spinform"]
                     }
@@ -616,12 +616,12 @@
                 "name": "Gearserker Junction",
                 "sections": [
                     {
-                        "name": "Gearserker Junction - Gearserker Junction Chest",
+                        "name": "Gearserker Junction Chest",
                         
                         "access_rules": ["boost"]
                     },
                     {
-                        "name": "Gearserker Junction - Gearserker Junction Gearserker",
+                        "name": "Gearserker Junction Gearserker",
                         
                         "access_rules": ["boost"]
                     }
@@ -646,12 +646,12 @@
                 "name": "Giants Fire",
                 "sections": [
                     {
-                        "name": "Giants Fire - Giants Fire Chest",
+                        "name": "Giants Fire Chest",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Giants Fire - Giants Fire Drone Rings"
+                        "name": "Giants Fire Drone Rings"
                         
                     }
                 ],
@@ -675,7 +675,7 @@
                 "name": "Golden Inneal",
                 "sections": [
                     {
-                        "name": "Golden Inneal - Golden Inneal Gearserker",
+                        "name": "Golden Inneal Gearserker",
                         
                         "access_rules": ["boost"]
                     }
@@ -700,7 +700,7 @@
                 "name": "Gravity Well",
                 "sections": [
                     {
-                        "name": "Gravity Well - Gravity Well Chest",
+                        "name": "Gravity Well Chest",
                         
                         "access_rules": ["boost", "batform", "spinform"]
                     }
@@ -725,12 +725,12 @@
                 "name": "Heavenly Aqueducts",
                 "sections": [
                     {
-                        "name": "Heavenly Aqueducts - Heavenly Aqueducts Mr. Mint",
+                        "name": "Heavenly Aqueducts Mr. Mint",
                         
                         "access_rules": ["boost, batform, spinform, snake"]
                     },
                     {
-                        "name": "Heavenly Aqueducts - Heavenly Aqueducts Gear Bits",
+                        "name": "Heavenly Aqueducts Gear Bits",
                         
                         "access_rules": ["boost, batform, spinform, snake"]
                     }
@@ -755,12 +755,12 @@
                 "name": "Industrial nest",
                 "sections": [
                     {
-                        "name": "Industrial nest - Industrial nest Chest",
+                        "name": "Industrial nest Chest",
                         
                         "access_rules": ["boost"]
                     },
                     {
-                        "name": "Industrial nest - Industrial nest Kappernian Baby",
+                        "name": "Industrial nest Kappernian Baby",
                         
                         "access_rules": ["boost"]
                     }
@@ -785,7 +785,7 @@
                 "name": "Jester",
                 "sections": [
                     {
-                        "name": "Jester - Jester",
+                        "name": "Jester",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     }
@@ -810,12 +810,12 @@
                 "name": "Jesters Juicery",
                 "sections": [
                     {
-                        "name": "Jesters Juicery - Jesters Juicery Juicery Chest",
+                        "name": "Jesters Juicery Juicery Chest",
                         
                         "access_rules": ["boost"]
                     },
                     {
-                        "name": "Jesters Juicery - Jesters Juicery Gearserker",
+                        "name": "Jesters Juicery Gearserker",
                         
                         "access_rules": ["boost"]
                     }
@@ -840,12 +840,12 @@
                 "name": "Jesters Leviathan",
                 "sections": [
                     {
-                        "name": "Jesters Leviathan - Jesters Leviathan Leviathan Chest",
+                        "name": "Jesters Leviathan Leviathan Chest",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Jesters Leviathan - Jesters Leviathan Gear Bits",
+                        "name": "Jesters Leviathan Gear Bits",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     }
@@ -870,17 +870,17 @@
                 "name": "Jesters Minery",
                 "sections": [
                     {
-                        "name": "Jesters Minery - Jesters Minery Minery Chest",
+                        "name": "Jesters Minery Minery Chest",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Jesters Minery - Jesters Minery Mr. Mint",
+                        "name": "Jesters Minery Mr. Mint",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Jesters Minery - Jesters Minery Rings",
+                        "name": "Jesters Minery Rings",
                         
                         "access_rules": ["snakeform", "boost"]
                     }
@@ -905,12 +905,12 @@
                 "name": "Kappernian Springs",
                 "sections": [
                     {
-                        "name": "Kappernian Springs - Kappernian Springs Chest",
+                        "name": "Kappernian Springs Chest",
                         
                         "access_rules": ["batform, goldengear:10", "spinform"]
                     },
                     {
-                        "name": "Kappernian Springs - Kappernian Springs Save All Babies",
+                        "name": "Kappernian Springs Save All Babies",
                         
                         "access_rules": ["boost, batform, spinform, snake"]
                     }
@@ -935,7 +935,7 @@
                 "name": "Laser Marathon",
                 "sections": [
                     {
-                        "name": "Laser Marathon - Laser Marathon Laser Challenge"
+                        "name": "Laser Marathon Laser Challenge"
                         
                     }
                 ],
@@ -959,12 +959,12 @@
                 "name": "Lofty Highways",
                 "sections": [
                     {
-                        "name": "Lofty Highways - Lofty Highways Race",
+                        "name": "Lofty Highways Race",
                         
                         "access_rules": ["snakeform, boost"]
                     },
                     {
-                        "name": "Lofty Highways - Lofty Highways Gearserker",
+                        "name": "Lofty Highways Gearserker",
                         
                         "access_rules": ["boost"]
                     }
@@ -989,12 +989,12 @@
                 "name": "Logtown",
                 "sections": [
                     {
-                        "name": "Logtown - Logtown High Chest",
+                        "name": "Logtown High Chest",
                         
                         "access_rules": ["batform"]
                     },
                     {
-                        "name": "Logtown - Logtown Well Chest"
+                        "name": "Logtown Well Chest"
                         
                     }
                 ],
@@ -1018,12 +1018,12 @@
                 "name": "Lonely Glacier",
                 "sections": [
                     {
-                        "name": "Lonely Glacier - Lonely Glacier Radio",
+                        "name": "Lonely Glacier Radio",
                         
                         "access_rules": ["boost, spin, bat"]
                     },
                     {
-                        "name": "Lonely Glacier - Lonely Glacier Drone",
+                        "name": "Lonely Glacier Drone",
                         
                         "access_rules": ["boost"]
                     }
@@ -1048,12 +1048,12 @@
                 "name": "Merchants Fleet",
                 "sections": [
                     {
-                        "name": "Merchants Fleet - Merchants Fleet Lever Chest",
+                        "name": "Merchants Fleet Lever Chest",
                         
                         "access_rules": ["boost"]
                     },
                     {
-                        "name": "Merchants Fleet - Merchants Fleet Chest"
+                        "name": "Merchants Fleet Chest"
                         
                     }
                 ],
@@ -1077,7 +1077,7 @@
                 "name": "Night Sight",
                 "sections": [
                     {
-                        "name": "Night Sight - Night Sight Chest"
+                        "name": "Night Sight Chest"
                         
                     }
                 ],
@@ -1101,12 +1101,12 @@
                 "name": "Optica Festival",
                 "sections": [
                     {
-                        "name": "Optica Festival - Optica Festival Chest",
+                        "name": "Optica Festival Chest",
                         
                         "access_rules": ["boost, spinform"]
                     },
                     {
-                        "name": "Optica Festival - Optica Festival Mr. Mint",
+                        "name": "Optica Festival Mr. Mint",
                         
                         "access_rules": ["boost, spin, bat"]
                     }
@@ -1131,12 +1131,12 @@
                 "name": "Radio Towers",
                 "sections": [
                     {
-                        "name": "Radio Towers - Radio Towers FM Radio",
+                        "name": "Radio Towers FM Radio",
                         
                         "access_rules": ["boost", "batform", "spinform"]
                     },
                     {
-                        "name": "Radio Towers - Radio Towers FM Rings",
+                        "name": "Radio Towers FM Rings",
                         
                         "access_rules": ["boost", "batform", "spinform"]
                     }
@@ -1161,7 +1161,7 @@
                 "name": "Ragnar",
                 "sections": [
                     {
-                        "name": "Ragnar - Ragnar",
+                        "name": "Ragnar",
                         
                         "access_rules": ["snakeform, boost, batform, spinform"]
                     }
@@ -1186,17 +1186,17 @@
                 "name": "Red Forest",
                 "sections": [
                     {
-                        "name": "Red Forest - Red Forest Chest",
+                        "name": "Red Forest Chest",
                         
                         "access_rules": ["boost, spinform"]
                     },
                     {
-                        "name": "Red Forest - Red Forest Drone",
+                        "name": "Red Forest Drone",
                         
                         "access_rules": ["boost, spinform"]
                     },
                     {
-                        "name": "Red Forest - Red Forest Kappa Baby",
+                        "name": "Red Forest Kappa Baby",
                         
                         "access_rules": ["boost, spinform"]
                     }
@@ -1221,7 +1221,7 @@
                 "name": "Roc",
                 "sections": [
                     {
-                        "name": "Roc - Roc",
+                        "name": "Roc",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     }
@@ -1246,7 +1246,7 @@
                 "name": "Rotund Ice",
                 "sections": [
                     {
-                        "name": "Rotund Ice - Rotund Ice Rings",
+                        "name": "Rotund Ice Rings",
                         
                         "access_rules": ["spinform", "boost, batform"]
                     }
@@ -1271,11 +1271,11 @@
                 "name": "Runas Village",
                 "sections": [
                     {
-                        "name": "Runas Village - Runas Village Lever Chest"
+                        "name": "Runas Village Lever Chest"
                         
                     },
                     {
-                        "name": "Runas Village - Runas Village Kappa Baby"
+                        "name": "Runas Village Kappa Baby"
                         
                     }
                 ],
@@ -1299,17 +1299,17 @@
                 "name": "Sgudal Ruins",
                 "sections": [
                     {
-                        "name": "Sgudal Ruins - Sgudal Ruins Rings",
+                        "name": "Sgudal Ruins Rings",
                         
                         "access_rules": ["boost, snakeform"]
                     },
                     {
-                        "name": "Sgudal Ruins - Sgudal Ruins Mr. Mint",
+                        "name": "Sgudal Ruins Mr. Mint",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Sgudal Ruins - Sgudal Ruins Kappa Baby"
+                        "name": "Sgudal Ruins Kappa Baby"
                         
                     }
                 ],
@@ -1333,7 +1333,7 @@
                 "name": "Shipwreck Twins",
                 "sections": [
                     {
-                        "name": "Shipwreck Twins - Shipwreck Twins Combat",
+                        "name": "Shipwreck Twins Combat",
                         
                         "access_rules": ["boost"]
                     }
@@ -1358,17 +1358,17 @@
                 "name": "Shroomfall",
                 "sections": [
                     {
-                        "name": "Shroomfall - Shroomfall Chest",
+                        "name": "Shroomfall Chest",
                         
                         "access_rules": ["boost, batform"]
                     },
                     {
-                        "name": "Shroomfall - Shroomfall Mr. Mint",
+                        "name": "Shroomfall Mr. Mint",
                         
                         "access_rules": ["boost, batform"]
                     },
                     {
-                        "name": "Shroomfall - Shroomfall Rat",
+                        "name": "Shroomfall Rat",
                         
                         "access_rules": ["boost, batform"]
                     }
@@ -1393,17 +1393,17 @@
                 "name": "Skull Sceal",
                 "sections": [
                     {
-                        "name": "Skull Sceal - Skull Sceal Chest",
+                        "name": "Skull Sceal Chest",
                         
                         "access_rules": ["boost"]
                     },
                     {
-                        "name": "Skull Sceal - Skull Sceal Combat",
+                        "name": "Skull Sceal Combat",
                         
                         "access_rules": ["boost"]
                     },
                     {
-                        "name": "Skull Sceal - Skull Sceal Gear Bits",
+                        "name": "Skull Sceal Gear Bits",
                         
                         "access_rules": ["boost, batform"]
                     }
@@ -1428,7 +1428,7 @@
                 "name": "Slippery Slope",
                 "sections": [
                     {
-                        "name": "Slippery Slope - Slippery Slope Rings",
+                        "name": "Slippery Slope Rings",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     }
@@ -1453,7 +1453,7 @@
                 "name": "Slocfall",
                 "sections": [
                     {
-                        "name": "Slocfall - Slocfall Ghost",
+                        "name": "Slocfall Ghost",
                         
                         "access_rules": ["boost, batform"]
                     }
@@ -1478,16 +1478,16 @@
                 "name": "Smugglers Den",
                 "sections": [
                     {
-                        "name": "Smugglers Den - Smugglers Den Roof Chest",
+                        "name": "Smugglers Den Roof Chest",
                         
                         "access_rules": ["boost"]
                     },
                     {
-                        "name": "Smugglers Den - Smugglers Den Rings"
+                        "name": "Smugglers Den Rings"
                         
                     },
                     {
-                        "name": "Smugglers Den - Smugglers Den Chest Crane",
+                        "name": "Smugglers Den Chest Crane",
                         
                         "access_rules": ["boost"]
                     }
@@ -1512,12 +1512,12 @@
                 "name": "Snowstorm Station",
                 "sections": [
                     {
-                        "name": "Snowstorm Station - Snowstorm Station Mr. Mint",
+                        "name": "Snowstorm Station Mr. Mint",
                         
                         "access_rules": ["boost, batform, spinform"]
                     },
                     {
-                        "name": "Snowstorm Station - Snowstorm Station Gear Bits",
+                        "name": "Snowstorm Station Gear Bits",
                         
                         "access_rules": ["boost, spinform"]
                     }
@@ -1542,17 +1542,17 @@
                 "name": "Split Islands",
                 "sections": [
                     {
-                        "name": "Split Islands - Split Islands Chest",
+                        "name": "Split Islands Chest",
                         
                         "access_rules": ["boost"]
                     },
                     {
-                        "name": "Split Islands - Split Islands Key Chest",
+                        "name": "Split Islands Key Chest",
                         
                         "access_rules": ["boost"]
                     },
                     {
-                        "name": "Split Islands - Split Islands Goop Crystal",
+                        "name": "Split Islands Goop Crystal",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     }
@@ -1577,17 +1577,17 @@
                 "name": "Stacked Outpost",
                 "sections": [
                     {
-                        "name": "Stacked Outpost - Stacked Outpost Chest",
+                        "name": "Stacked Outpost Chest",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Stacked Outpost - Stacked Outpost Mr. Mint",
+                        "name": "Stacked Outpost Mr. Mint",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Stacked Outpost - Stacked Outpost Rings"
+                        "name": "Stacked Outpost Rings"
                         
                     }
                 ],
@@ -1611,7 +1611,7 @@
                 "name": "Stiltsville Ruins",
                 "sections": [
                     {
-                        "name": "Stiltsville Ruins - Stiltsville Ruins Rescue Kid"
+                        "name": "Stiltsville Ruins Rescue Kid"
                         
                     }
                 ],
@@ -1635,12 +1635,12 @@
                 "name": "Subway Ascension",
                 "sections": [
                     {
-                        "name": "Subway Ascension - Subway Ascension Race",
+                        "name": "Subway Ascension Race",
                         
                         "access_rules": ["snakeform, batform"]
                     },
                     {
-                        "name": "Subway Ascension - Subway Ascension Chest",
+                        "name": "Subway Ascension Chest",
                         
                         "access_rules": ["snakeform, batform, boost"]
                     }
@@ -1665,17 +1665,17 @@
                 "name": "Sunken Neighborhood",
                 "sections": [
                     {
-                        "name": "Sunken Neighborhood - Sunken Neighborhood Chest",
+                        "name": "Sunken Neighborhood Chest",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Sunken Neighborhood - Sunken Neighborhood Mr. Mint",
+                        "name": "Sunken Neighborhood Mr. Mint",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     },
                     {
-                        "name": "Sunken Neighborhood - Sunken Neighborhood Gear Bits",
+                        "name": "Sunken Neighborhood Gear Bits",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     }
@@ -1700,12 +1700,12 @@
                 "name": "Tartar Village",
                 "sections": [
                     {
-                        "name": "Tartar Village - Tartar Village Combat",
+                        "name": "Tartar Village Combat",
                         
                         "access_rules": ["boost"]
                     },
                     {
-                        "name": "Tartar Village - Tartar Village Kappa Baby",
+                        "name": "Tartar Village Kappa Baby",
                         
                         "access_rules": ["boost", "batform", "spinform"]
                     }
@@ -1730,7 +1730,7 @@
                 "name": "The Crooked Crow",
                 "sections": [
                     {
-                        "name": "The Crooked Crow - The Crooked Crow Chest",
+                        "name": "The Crooked Crow Chest",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     }
@@ -1755,11 +1755,11 @@
                 "name": "Trading Outpost",
                 "sections": [
                     {
-                        "name": "Trading Outpost - Trading Outpost Rings"
+                        "name": "Trading Outpost Rings"
                         
                     },
                     {
-                        "name": "Trading Outpost - Trading Outpost Chest",
+                        "name": "Trading Outpost Chest",
                         
                         "access_rules": ["batform", "spinform"]
                     }
@@ -1784,7 +1784,7 @@
                 "name": "Tridentarius",
                 "sections": [
                     {
-                        "name": "Tridentarius - Tridentarius",
+                        "name": "Tridentarius",
                         
                         "access_rules": ["boost, spinform"]
                     }
@@ -1809,12 +1809,12 @@
                 "name": "Tridentarius Gearserkium",
                 "sections": [
                     {
-                        "name": "Tridentarius Gearserkium - Tridentarius Gearserkium Mr. Mint",
+                        "name": "Tridentarius Gearserkium Mr. Mint",
                         
                         "access_rules": ["boost, spinform"]
                     },
                     {
-                        "name": "Tridentarius Gearserkium - Tridentarius Gearserkium Gearserker",
+                        "name": "Tridentarius Gearserkium Gearserker",
                         
                         "access_rules": ["boost, spinform"]
                     }
@@ -1839,7 +1839,7 @@
                 "name": "Twisting Barrels",
                 "sections": [
                     {
-                        "name": "Twisting Barrels - Twisting Barrels Chest",
+                        "name": "Twisting Barrels Chest",
                         
                         "access_rules": ["boost, batform", "boost, spinform"]
                     }
@@ -1864,12 +1864,12 @@
                 "name": "Uisge Whirlpool",
                 "sections": [
                     {
-                        "name": "Uisge Whirlpool - Uisge Whirlpool Chest",
+                        "name": "Uisge Whirlpool Chest",
                         
                         "access_rules": ["boost, batform"]
                     },
                     {
-                        "name": "Uisge Whirlpool - Uisge Whirlpool Gear Bits"
+                        "name": "Uisge Whirlpool Gear Bits"
                         
                     }
                 ],
@@ -1893,17 +1893,17 @@
                 "name": "Vindras Mills",
                 "sections": [
                     {
-                        "name": "Vindras Mills - Vindras Mills Fix Windmill",
+                        "name": "Vindras Mills Fix Windmill",
                         
                         "access_rules": ["snakeform, boost, batform", "snakeform, boost, spinform"]
                     },
                     {
-                        "name": "Vindras Mills - Vindras Mills Key Chest",
+                        "name": "Vindras Mills Key Chest",
                         
                         "access_rules": ["snakeform, boost"]
                     },
                     {
-                        "name": "Vindras Mills - Vindras Mills Mr. Mint",
+                        "name": "Vindras Mills Mr. Mint",
                         
                         "access_rules": ["snakeform, boost, batform, spinform"]
                     }
