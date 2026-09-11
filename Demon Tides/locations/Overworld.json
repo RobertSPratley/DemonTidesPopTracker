@@ -1048,13 +1048,12 @@
                 "name": "Merchants Fleet",
                 "sections": [
                     {
-                        "name": "Merchants Fleet Lever Chest",
-                        
-                        "access_rules": ["boost"]
+                        "name": "Merchants Fleet Lever Chest"
                     },
                     {
-                        "name": "Merchants Fleet Chest"
-                        
+                        "name": "Merchants Fleet Chest",
+
+                        "access_rules": ["boost"]
                     }
                 ],
                 "map_locations": [
